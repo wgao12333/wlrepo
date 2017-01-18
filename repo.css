@@ -1,5 +1,9 @@
+html {
+   background: purple;
+}
 h1 {
    text-align: center;
+   color: green;
 }
 
 #button {
